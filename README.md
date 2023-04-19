@@ -1,3 +1,4 @@
 # desktop-tutorial
-GitHub Desktop tutorial repository
-I am a noob at this
+GitHub Desktop tutorial repository.
+About me
+I am very confused by this.
